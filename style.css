@@ -148,6 +148,10 @@ h2 {
   display: flex;
 }
 
+#Platforms {
+  background-color: #034031;
+}
+
 #Lessons {
   background-color: #F1D24A;
 }
