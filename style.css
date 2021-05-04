@@ -244,6 +244,10 @@ h2 {
   display: absolute;
 }
 
+.apps img {
+  width: 100px;
+}
+
 #Resources {
   background-color: white;
 
