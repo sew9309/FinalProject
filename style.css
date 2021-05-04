@@ -239,6 +239,11 @@ h2 {
   background-color: #A968A9;
 }
 
+#Techniques img {
+  height: 100%;
+  display: absolute;
+}
+
 #Resources {
   background-color: white;
 
