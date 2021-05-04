@@ -206,12 +206,22 @@ h2 {
   color: black;
   display: flex;
   justify-content: center;
+  align-items: center;
+}
+
+.flip-card-front img{
+  height: 50%;
 }
 
 .flip-card-back {
   background-color: #EF91A5;
   color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 20px;
   transform: rotateY(180deg);
+  padding: 25px 25px 25px 25px;
 }
 
 .proconsDiv {
